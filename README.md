@@ -9,7 +9,7 @@
   <h3>🚀 Just your friendly neighborhood code wizard trying to make computers do human things... and occasionally succeeding! 🎩✨</h3>
 </div>
 
-<img align="right" alt="Me pretending to know what I'm doing" width="400" src="https://c.tenor.com/CdqXg0AQLOIAAAAC/tenor.gif" style="border-radius: 50%;">
+<img align="right" alt="Me pretending to know what I'm doing" width="400" src="https://c.tenor.com/CdqXg0AQLOIAAAAC/tenor.gif">
 
 ## 🤖 System Status
 ```yaml
