@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=500&height=70&lines=ERROR+404%3A+Social+Life+Not+Found;SELECT+*+FROM+world+WHERE+coffee+%3E+0;while(alive)+%7B+eat()+sleep()+code()+repeat()+%7D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&duration=2000&pause=1000&color=FF69B4&center=true&vCenter=true&width=400&height=70&lines=404%3A+Fun+Not+Found;Debugging+Life.exe...;Why+Am+I+Like+This%3F" alt="Typing SVG" />
 </div>
+
 
 # 👋 Hey there, bugs... I mean folks!
 > When life gives you bugs, make debugging sessions! 🐛
